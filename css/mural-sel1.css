@@ -1,0 +1,13 @@
+.coracao{
+	display: block;
+    margin: auto;
+    width: 95%;
+ }
+
+ .foto{
+	display: block;
+    margin: auto;
+    width: 95%;
+ }
+
+ html, body {margin: 0; height: 100%; overflow: hidden}

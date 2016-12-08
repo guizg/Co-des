@@ -1,0 +1,19 @@
+.ad{
+	padding-top: 50px;
+}
+
+.antesdepois{
+	display: block;
+    margin: auto;
+    width: 95%;
+}
+
+.popup{
+	position: absolute;
+	padding-left: 75px;
+	padding-top: 100px;
+}
+
+.mais{
+	font-size: 120%;
+}

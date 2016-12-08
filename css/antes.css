@@ -1,0 +1,24 @@
+.a{
+	display: block;
+    margin: auto;
+    width: 95%;
+ }
+
+
+.pontos{
+	display: block;
+	margin: auto;
+	width: 100%;
+	text-align: center;
+	padding-top: 55px;
+}
+
+.coracao{
+	text-align: center;
+}
+
+.info{
+	padding-top: 30px;
+}
+
+html, body {margin: 0; height: 100%; overflow: hidden}
